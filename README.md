@@ -1,5 +1,3 @@
-# smart-warehouse-automation-platform1
-# smart-warehouse-automation-platform1
 # Smart Warehouse Automation Platform (OS PBL)
 
 An **Operating Systems simulation** that models warehouse operations as OS processes. Built incrementally across PBL reviews for the Operating Systems course at NIET.
